@@ -1,358 +1,93 @@
-﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-8.218.110.180,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",171,23.70
-8.219.53.222,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",309,21.26
-8.219.142.229,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",388,21.22
-8.219.167.65,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",409,20.74
-8.219.0.162,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",269,20.14
-8.218.110.180,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",183,19.45
-8.219.53.222,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",274,18.77
-8.219.92.89,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",282,18.28
-8.222.254.91,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",310,18.11
-8.222.130.137,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",284,17.78
-8.218.110.180,2053,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",221,17.78
-8.222.209.223,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",308,17.71
-8.219.42.72,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",289,17.67
-8.219.111.147,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",301,17.39
-8.222.129.245,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",287,17.36
-8.219.101.72,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",282,16.90
-8.222.140.185,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",283,16.78
-8.219.111.147,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",278,16.76
-8.219.60.130,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",284,16.71
-8.222.211.124,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",268,16.42
-8.222.168.24,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",282,16.38
-8.219.43.243,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",292,16.17
-8.219.67.133,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",287,16.16
-8.219.103.65,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",274,16.15
-8.219.174.142,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",405,16.02
-8.222.167.147,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",296,15.97
-8.222.224.162,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",302,15.94
-8.222.215.228,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",280,15.90
-8.222.134.170,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",310,15.81
-8.222.133.247,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",282,15.78
-8.222.145.164,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",291,15.77
-8.222.219.252,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",279,15.69
-8.222.169.182,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",311,15.60
-8.210.3.24,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",175,15.57
-8.222.129.245,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",292,15.49
-8.219.240.141,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",443,15.46
-8.222.137.166,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",310,15.38
-8.222.221.197,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",294,15.36
-8.222.131.102,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",292,15.33
-8.222.168.155,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",316,15.31
-8.219.126.3,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",285,15.29
-8.222.182.10,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",278,15.11
-8.219.0.162,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",288,15.06
-8.222.224.162,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",298,15.02
-8.222.187.107,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",279,15.02
-8.222.229.102,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",305,14.95
-8.222.145.110,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",282,14.94
-8.222.154.50,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",296,14.87
-8.219.200.145,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",372,14.86
-8.222.134.170,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",296,14.83
-8.222.229.22,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",288,14.82
-8.222.154.50,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",299,14.73
-8.219.140.229,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",361,14.72
-8.222.130.137,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",302,14.71
-8.222.146.222,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",311,14.69
-8.219.107.199,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",313,14.59
-8.219.86.200,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",293,14.53
-8.222.221.109,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",319,14.51
-8.210.3.24,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",177,14.45
-8.219.100.155,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",296,14.30
-8.219.174.142,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",356,14.28
-8.222.147.203,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",277,14.21
-8.222.174.108,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",320,14.15
-8.219.240.141,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",371,14.14
-8.219.134.63,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",328,14.06
-8.222.144.50,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",317,13.91
-8.222.188.56,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",272,13.91
-8.222.129.245,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",309,13.82
-8.222.175.78,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",270,13.60
-8.219.210.226,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",394,13.56
-8.219.111.147,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",296,13.54
-8.222.238.141,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",314,13.52
-8.222.188.56,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",308,13.45
-8.222.224.163,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",287,13.40
-8.222.238.141,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",322,13.34
-8.219.78.1,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",292,13.29
-47.245.53.50,8443,TRUE,LAX,US,North America,Los Angeles,45102,"Alibaba US Technology Co., Ltd.",524,13.29
-8.222.146.222,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",280,13.25
-47.74.4.47,2083,TRUE,LAX,US,North America,Los Angeles,45102,"Alibaba US Technology Co., Ltd.",521,13.22
-8.222.144.219,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",296,13.04
-8.219.228.30,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",376,13.03
-8.222.136.247,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",276,13.02
-8.222.215.228,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",600,12.95
-8.222.224.163,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",315,12.95
-8.222.168.234,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",294,12.94
-8.222.237.131,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",267,12.93
-8.222.164.44,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",291,12.93
-8.222.136.196,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",292,12.91
-8.222.238.141,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",280,12.90
-8.219.248.47,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",327,12.83
-8.222.168.234,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",296,12.80
-8.222.174.108,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",312,12.61
-8.222.144.50,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",303,12.56
-8.222.174.108,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",304,12.55
-8.222.145.164,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",304,12.54
-8.222.167.147,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",325,12.52
-8.222.129.245,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",289,12.45
-8.222.229.102,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",299,12.38
-8.222.249.190,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",282,12.19
-8.222.154.50,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",264,12.18
-8.222.167.147,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",319,11.99
-8.222.169.182,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",304,11.98
-8.222.136.196,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",277,11.92
-8.219.137.50,443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",428,11.86
-8.219.78.1,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",292,11.79
-8.222.227.191,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",289,11.78
-8.219.201.245,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",383,11.74
-8.222.190.225,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",287,11.71
-8.222.152.71,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",293,11.61
-8.219.248.47,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",333,11.50
-8.222.145.110,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",292,11.47
-8.222.184.198,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",284,11.33
-8.219.82.35,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",280,11.17
-8.222.137.178,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",287,11.17
-8.222.133.247,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",305,11.06
-8.222.180.86,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",271,11.01
-8.219.174.142,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",413,10.99
-8.219.114.201,443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",312,10.98
-8.222.150.197,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",313,10.94
-8.219.107.199,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",317,10.94
-8.222.184.198,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",300,10.92
-8.219.43.243,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",282,10.91
-8.222.140.185,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",305,10.91
-47.245.30.208,2096,TRUE,LAX,US,North America,Los Angeles,45102,"Alibaba US Technology Co., Ltd.",517,10.72
-8.219.107.199,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",280,10.68
-8.219.202.130,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",328,10.58
-8.219.238.145,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",362,10.54
-8.222.159.252,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",296,10.52
-8.222.229.22,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",308,10.47
-8.219.173.195,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",400,10.41
-8.222.144.219,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",285,10.14
-8.219.142.229,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",382,10.10
-8.222.147.203,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",286,10.06
-8.222.249.190,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",316,10.03
-8.222.137.178,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",299,9.99
-8.219.140.229,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",429,9.99
-8.219.230.254,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",367,9.94
-8.222.154.227,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",302,9.93
-8.222.249.190,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",310,9.85
-47.245.15.207,8443,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",195,9.82
-8.219.238.145,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",339,9.73
-8.222.137.178,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",303,9.70
-8.222.227.191,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",310,9.70
-8.219.50.180,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",266,9.67
-8.222.168.234,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",302,9.66
-8.222.254.91,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",301,9.62
-8.222.154.227,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",335,9.52
-8.219.67.133,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",298,9.44
-8.222.168.24,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",273,9.43
-8.219.172.128,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",366,9.40
-8.219.73.21,443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",304,9.39
-8.219.114.201,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",295,9.35
-8.219.220.88,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",338,9.31
-8.222.180.86,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",277,9.20
-8.219.210.226,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",419,9.18
-8.222.159.252,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",285,9.14
-8.222.164.44,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",282,9.02
-8.219.167.65,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",324,8.86
-8.222.205.210,443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",293,8.82
-8.219.202.130,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",398,8.74
-8.222.167.8,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",293,8.70
-8.219.228.30,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",363,8.64
-8.219.111.147,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",314,8.52
-8.219.195.47,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",349,8.27
-8.219.222.8,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",385,8.24
-8.219.78.222,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",324,8.19
-8.222.155.242,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",308,8.15
-8.219.230.254,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",333,8.03
-8.222.187.107,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",292,8.01
-8.222.209.223,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",310,7.92
-8.222.190.225,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",301,7.82
-8.219.248.47,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",445,7.77
-8.222.190.225,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",293,7.74
-8.219.67.133,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",291,7.71
-8.222.159.252,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",298,7.70
-8.222.162.45,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",285,7.69
-8.222.244.192,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",313,7.53
-8.222.182.10,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",276,7.40
-8.222.131.102,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",330,7.23
-8.219.228.30,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",368,7.22
-8.222.154.227,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",276,7.08
-8.222.229.22,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",285,7.07
-8.219.230.254,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",384,7.07
-8.219.195.47,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",361,7.01
-8.222.180.86,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",318,7.01
-47.74.4.47,2096,TRUE,LAX,US,North America,Los Angeles,45102,"Alibaba US Technology Co., Ltd.",520,6.97
-8.219.137.50,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",361,6.97
-8.222.147.203,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",310,6.94
-8.222.162.45,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",298,6.93
-47.74.50.249,2096,TRUE,LAX,US,North America,Los Angeles,45102,"Alibaba US Technology Co., Ltd.",524,6.88
-8.222.229.102,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",278,6.87
-8.219.172.128,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",352,6.81
-8.222.150.197,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",298,6.76
-8.222.212.116,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",307,6.75
-8.222.211.124,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",288,6.69
-8.222.164.44,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",289,6.66
-8.222.211.124,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",291,6.65
-8.222.145.110,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",296,6.52
-8.222.145.164,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",305,6.43
-8.222.211.124,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",299,6.36
-8.219.200.145,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",333,6.21
-8.219.114.201,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",320,6.17
-8.219.156.148,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",429,6.17
-8.219.210.226,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",433,6.13
-8.222.221.109,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",286,5.97
-8.219.200.145,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",378,5.97
-8.222.162.45,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",304,5.90
-8.219.142.191,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",343,5.80
-8.219.140.229,443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",358,5.74
-8.222.167.8,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",299,5.56
-8.222.136.247,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",299,5.55
-8.219.188.162,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",360,5.52
-8.222.131.102,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",300,5.48
-8.222.182.10,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",308,5.45
-8.222.133.247,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",298,5.45
-8.219.222.8,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",389,5.44
-8.219.208.69,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",336,5.39
-8.219.240.141,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",386,5.32
-8.222.240.47,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",314,5.24
-8.219.53.222,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",295,5.24
-8.219.173.195,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",364,5.23
-8.222.152.71,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",272,5.13
-8.219.174.142,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",346,5.10
-8.222.167.8,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",314,5.07
-8.222.221.109,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",280,5.00
-8.219.208.69,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",350,4.90
-47.245.15.207,2083,TRUE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",249,4.86
-8.219.230.254,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",408,4.84
-8.222.164.44,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",288,4.75
-8.222.144.219,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",295,4.72
-8.219.228.30,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",393,4.71
-8.222.219.252,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",281,4.71
-8.219.134.63,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",355,4.70
-8.219.104.242,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",312,4.64
-8.222.168.24,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",315,4.62
-8.219.137.50,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",351,4.61
-8.219.93.5,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",276,4.47
-8.222.221.109,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",292,4.45
-8.222.140.185,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",286,4.43
-8.219.82.35,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",303,4.37
-8.222.187.107,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",294,4.34
-8.219.92.89,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",288,4.33
-8.219.142.229,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",370,4.33
-8.219.208.69,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",364,4.28
-8.222.147.203,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",275,4.28
-8.217.164.10,2053,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",212,4.23
-8.222.140.185,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",294,4.17
-8.222.224.163,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",310,4.16
-8.210.3.24,2083,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",197,4.13
-8.222.215.228,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",280,4.10
-8.222.224.162,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",286,4.00
-47.74.50.249,8443,TRUE,LAX,US,North America,Los Angeles,45102,"Alibaba US Technology Co., Ltd.",530,3.96
-8.219.222.8,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",357,3.95
-8.222.219.252,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",306,3.92
-8.222.182.10,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",293,3.91
-8.222.159.252,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",303,3.86
-8.222.224.162,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",309,3.85
-8.222.168.24,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",299,3.83
-8.222.237.131,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",303,3.81
-8.222.131.102,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",293,3.80
-8.219.255.171,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",370,3.76
-8.219.93.5,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",272,3.58
-8.222.133.247,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",279,3.50
-8.222.180.86,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",265,3.45
-8.222.190.225,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",423,3.39
-8.222.248.188,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",282,3.34
-8.222.174.108,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",292,3.33
-8.222.136.247,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",338,3.32
-8.219.126.3,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",307,3.30
-8.219.134.63,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",461,3.25
-8.222.134.170,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",319,3.10
-8.222.140.185,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",299,3.09
-8.222.212.116,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",296,3.02
-8.219.167.65,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",372,3.00
-8.222.174.108,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",301,2.82
-8.219.103.65,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",305,2.63
-8.210.66.190,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",202,2.58
-8.222.136.196,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",280,2.51
-8.222.221.197,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",310,2.45
-8.222.137.178,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",279,2.44
-8.222.160.176,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",286,2.31
-8.219.157.97,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",388,2.17
-8.219.213.133,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",387,2.14
-8.219.129.38,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",367,2.08
-8.222.237.131,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",314,2.05
-8.222.160.61,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",303,1.98
-8.222.167.147,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",289,1.90
-8.219.167.65,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",341,1.79
-8.222.146.222,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",313,1.74
-8.222.168.155,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",275,1.69
-47.74.50.249,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",444,1.62
-47.243.107.148,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",259,1.57
-8.210.66.190,2083,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",179,1.48
-8.219.86.200,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",284,1.46
-8.222.160.61,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",330,1.37
-8.219.249.38,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",375,1.33
-8.222.175.78,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",295,1.32
-8.219.11.158,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",286,1.25
-8.222.130.137,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",268,1.24
-47.245.15.236,2096,TRUE,LAX,US,North America,Los Angeles,45102,"Alibaba US Technology Co., Ltd.",554,1.22
-47.242.196.48,443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",187,1.20
-8.219.0.162,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",295,1.19
-8.219.173.195,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",344,1.13
-8.222.129.32,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",297,1.11
-8.219.222.8,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",389,1.09
-8.222.182.10,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",292,1.09
-8.219.86.200,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",284,1.07
-8.222.188.56,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",281,1.00
-8.222.160.176,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",307,0.94
-8.222.227.191,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",310,0.88
-8.217.164.10,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",176,0.88
-47.254.66.75,443,TRUE,SJC,US,North America,San Jose,45102,"Alibaba US Technology Co., Ltd.",652,0.88
-8.222.187.107,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",288,0.88
-8.219.11.158,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",296,0.87
-47.243.107.148,2053,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",170,0.85
-8.219.238.145,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",402,0.83
-8.222.254.91,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",394,0.81
-8.222.144.219,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",316,0.79
-8.222.248.188,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",295,0.79
-8.219.129.38,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",490,0.77
-47.243.107.148,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",187,0.76
-8.222.160.176,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",324,0.75
-47.74.50.249,2053,TRUE,LAX,US,North America,Los Angeles,45102,"Alibaba US Technology Co., Ltd.",507,0.74
-8.219.173.195,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",338,0.71
-8.222.167.8,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",292,0.70
-8.218.94.119,443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",202,0.68
-47.243.107.148,2083,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",186,0.67
-8.219.103.65,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",293,0.66
-8.222.160.176,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",285,0.61
-8.222.137.166,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",306,0.61
-8.219.107.135,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",309,0.61
-8.219.104.242,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",285,0.56
-47.74.50.249,2087,TRUE,KIX,JP,Asia Pacific,Osaka,45102,"Alibaba US Technology Co., Ltd.",281,0.56
-8.219.43.243,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",299,0.56
-8.222.244.192,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",284,0.53
-8.222.211.124,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",301,0.53
-8.222.248.188,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",293,0.52
-8.222.225.193,443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",295,0.50
-8.219.255.171,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",417,0.48
-8.222.156.206,443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",312,0.48
-8.222.237.131,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",284,0.47
-8.222.229.22,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",283,0.47
-8.222.136.247,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",303,0.47
-8.222.145.164,2096,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",305,0.46
-8.219.100.155,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",347,0.45
-8.217.164.10,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",197,0.43
-8.222.150.197,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",297,0.42
-8.219.213.133,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",351,0.40
-8.222.144.50,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",307,0.31
-8.219.113.27,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",288,0.31
-8.222.227.191,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",304,0.30
-8.219.255.171,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",320,0.30
-47.89.191.155,443,TRUE,IAD,US,North America,Ashburn,45102,"Alibaba US Technology Co., Ltd.",852,0.25
-8.219.101.72,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",286,0.25
-47.251.74.226,443,TRUE,LAX,US,North America,Los Angeles,45102,"Alibaba US Technology Co., Ltd.",695,0.19
-8.219.107.135,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",298,0.08
-8.219.78.222,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",322,0.06
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+129.154.212.181,44699,true,NRT,Asia Pacific,Tokyo,73 ms,13826 kB/s
+35.221.215.200,2023,true,TPE,Asia Pacific,Taipei,81 ms,11806 kB/s
+154.17.28.199,8001,true,LAX,North America,Los Angeles,174 ms,11760 kB/s
+193.122.122.16,40377,true,LAX,North America,Los Angeles,70 ms,10446 kB/s
+20.6.32.20,4431,true,SIN,Asia Pacific,Singapore,105 ms,9604 kB/s
+8.222.160.61,2087,true,SIN,Asia Pacific,Singapore,319 ms,9031 kB/s
+38.59.226.113,34237,true,LHR,Europe,London,197 ms,8972 kB/s
+8.222.248.188,2096,true,SIN,Asia Pacific,Singapore,308 ms,8901 kB/s
+8.222.227.191,2096,true,SIN,Asia Pacific,Singapore,343 ms,8706 kB/s
+47.236.7.206,2087,true,SIN,Asia Pacific,Singapore,273 ms,8687 kB/s
+8.222.150.197,2083,true,SIN,Asia Pacific,Singapore,291 ms,8680 kB/s
+8.222.224.162,2096,true,SIN,Asia Pacific,Singapore,342 ms,8669 kB/s
+8.222.137.166,2083,true,SIN,Asia Pacific,Singapore,279 ms,8600 kB/s
+146.56.177.67,61153,true,HKG,Asia Pacific,Hong Kong,72 ms,8598 kB/s
+149.104.23.58,34237,true,HKG,Asia Pacific,Hong Kong,82 ms,8475 kB/s
+8.222.215.228,2083,true,SIN,Asia Pacific,Singapore,320 ms,8464 kB/s
+8.222.187.107,2087,true,SIN,Asia Pacific,Singapore,315 ms,8445 kB/s
+47.236.79.77,2083,true,SIN,Asia Pacific,Singapore,339 ms,8275 kB/s
+8.222.211.124,2096,true,SIN,Asia Pacific,Singapore,313 ms,8272 kB/s
+8.222.182.10,2083,true,SIN,Asia Pacific,Singapore,303 ms,8268 kB/s
+8.222.238.141,2053,true,SIN,Asia Pacific,Singapore,325 ms,8261 kB/s
+8.222.137.178,2083,true,SIN,Asia Pacific,Singapore,324 ms,8116 kB/s
+47.236.104.98,2053,true,SIN,Asia Pacific,Singapore,273 ms,8098 kB/s
+47.236.114.167,2096,true,SIN,Asia Pacific,Singapore,290 ms,8003 kB/s
+8.222.227.191,2083,true,SIN,Asia Pacific,Singapore,333 ms,7978 kB/s
+8.222.160.61,2096,true,SIN,Asia Pacific,Singapore,329 ms,7920 kB/s
+8.222.211.124,2087,true,SIN,Asia Pacific,Singapore,313 ms,7915 kB/s
+8.222.215.228,2096,true,SIN,Asia Pacific,Singapore,305 ms,7573 kB/s
+110.13.212.97,20880,true,ICN,Asia Pacific,Seoul,88 ms,7572 kB/s
+14.54.63.38,50030,true,ICN,Asia Pacific,Seoul,119 ms,7510 kB/s
+47.236.144.208,2087,true,SIN,Asia Pacific,Singapore,274 ms,7505 kB/s
+47.236.83.239,2083,true,SIN,Asia Pacific,Singapore,352 ms,7478 kB/s
+8.222.136.196,2087,true,SIN,Asia Pacific,Singapore,316 ms,7380 kB/s
+218.54.200.63,30048,true,ICN,Asia Pacific,Seoul,81 ms,7379 kB/s
+38.59.225.235,34237,true,LHR,Europe,London,202 ms,7065 kB/s
+118.216.16.203,10025,true,ICN,Asia Pacific,Seoul,96 ms,6858 kB/s
+38.59.238.175,34237,true,LHR,Europe,London,203 ms,6829 kB/s
+154.197.121.127,443,true,SJC,North America,San Jose,173 ms,6810 kB/s
+132.145.83.155,33799,true,ICN,Asia Pacific,Seoul,74 ms,6189 kB/s
+110.11.25.32,10488,true,NRT,Asia Pacific,Tokyo,123 ms,5884 kB/s
+219.240.54.189,10434,true,ICN,Asia Pacific,Seoul,74 ms,5563 kB/s
+110.11.25.32,10517,true,KIX,Asia Pacific,Osaka,104 ms,5341 kB/s
+175.121.23.104,38422,true,KIX,Asia Pacific,Osaka,109 ms,5290 kB/s
+217.163.76.107,2053,true,SJC,North America,San Jose,174 ms,4904 kB/s
+217.163.76.89,2053,true,SJC,North America,San Jose,175 ms,4807 kB/s
+174.136.205.41,50008,true,SJC,North America,San Jose,184 ms,4093 kB/s
+152.70.234.188,443,true,LAX,North America,Los Angeles,76 ms,4091 kB/s
+180.70.218.108,10411,true,ICN,Asia Pacific,Seoul,82 ms,3947 kB/s
+222.233.248.165,38344,true,KIX,Asia Pacific,Osaka,127 ms,3680 kB/s
+175.125.207.253,33060,true,ICN,Asia Pacific,Seoul,83 ms,3657 kB/s
+130.162.140.215,443,true,LAX,North America,Los Angeles,72 ms,3439 kB/s
+27.50.48.108,443,true,SJC,North America,San Jose,173 ms,3366 kB/s
+43.159.35.190,49142,true,SIN,Asia Pacific,Singapore,94 ms,3323 kB/s
+154.197.121.248,8443,true,SJC,North America,San Jose,176 ms,3255 kB/s
+154.197.121.13,8443,true,SJC,North America,San Jose,175 ms,2634 kB/s
+154.197.121.253,443,true,SJC,North America,San Jose,180 ms,2586 kB/s
+8.222.153.11,2083,true,LAX,North America,Los Angeles,483 ms,2419 kB/s
+110.11.25.32,10602,true,NRT,Asia Pacific,Tokyo,115 ms,2391 kB/s
+154.197.121.254,8443,true,SJC,North America,San Jose,171 ms,2262 kB/s
+217.163.76.88,443,true,SJC,North America,San Jose,172 ms,2002 kB/s
+219.249.124.238,28350,true,KIX,Asia Pacific,Osaka,120 ms,1980 kB/s
+58.238.88.129,10106,true,ICN,Asia Pacific,Seoul,90 ms,1968 kB/s
+218.54.154.5,11423,true,NRT,Asia Pacific,Tokyo,130 ms,1058 kB/s
+159.89.112.72,8443,true,YYZ,North America,Toronto,271 ms,855 kB/s
+58.238.88.129,38507,true,NRT,Asia Pacific,Tokyo,157 ms,845 kB/s
+118.163.128.81,17333,true,KHH,Asia Pacific,Kaohsiung City,92 ms,696 kB/s
+211.44.160.106,10096,true,ICN,Asia Pacific,Seoul,80 ms,656 kB/s
+38.180.128.251,2053,true,SYD,Oceania,Sydney,314 ms,615 kB/s
+217.163.76.75,443,true,SJC,North America,San Jose,182 ms,611 kB/s
+47.241.209.61,443,true,SIN,Asia Pacific,Singapore,90 ms,589 kB/s
+217.163.76.59,443,true,SJC,North America,San Jose,175 ms,505 kB/s
+154.197.121.99,8443,true,SJC,North America,San Jose,177 ms,505 kB/s
+18.183.137.85,2083,true,LAX,North America,Los Angeles,69 ms,431 kB/s
+43.154.196.20,65432,true,HKG,Asia Pacific,Hong Kong,74 ms,406 kB/s
+159.65.165.75,8443,true,EWR,North America,Newark,344 ms,397 kB/s
+202.81.231.30,55576,true,HKG,Asia Pacific,Hong Kong,81 ms,362 kB/s
+1.232.40.93,39460,true,KIX,Asia Pacific,Osaka,120 ms,352 kB/s
+203.57.51.179,8443,true,SYD,Oceania,Sydney,340 ms,213 kB/s
+170.64.228.44,8443,true,SYD,Oceania,Sydney,343 ms,150 kB/s
+124.50.116.202,36831,true,LAX,North America,Los Angeles,235 ms,134 kB/s
+178.128.225.209,2053,true,YYZ,North America,Toronto,347 ms,77 kB/s
+45.251.240.229,34237,true,KIX,Asia Pacific,Osaka,96 ms,67 kB/s
+211.75.74.232,4443,true,LAX,North America,Los Angeles,77 ms,64 kB/s
+193.203.203.102,8443,true,YYZ,North America,Toronto,274 ms,58 kB/s
+170.64.161.80,8443,true,SYD,Oceania,Sydney,328 ms,52 kB/s
+20.167.48.9,8443,true,SYD,Oceania,Sydney,200 ms,45 kB/s
+43.154.34.74,1935,true,HKG,Asia Pacific,Hong Kong,76 ms,29 kB/s
+18.100.124.0,8443,true,MAD,Europe,Madrid,224 ms,29 kB/s
+129.151.152.254,443,true,AMS,Europe,Amsterdam,246 ms,25 kB/s
+138.197.131.113,2053,true,YYZ,North America,Toronto,367 ms,23 kB/s
+211.246.192.9,10051,true,LAX,North America,Los Angeles,207 ms,0 kB/s
+140.238.26.92,20855,true,LAX,North America,Los Angeles,71 ms,0 kB/s
