@@ -1,48 +1,125 @@
-IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
-8.219.151.193,2096,2096,true,SIN,Asia Pacific,Singapore,82,12.26
-8.222.159.252,8080,8080,false,SIN,Asia Pacific,Singapore,2,12.26
-8.219.86.200,8443,8443,true,SIN,Asia Pacific,Singapore,36,12.26
-8.219.175.127,2083,2083,true,SIN,Asia Pacific,Singapore,107,12.25
-8.219.233.6,2087,2087,true,HKG,Asia Pacific,Hong Kong,182,12.25
-8.222.224.162,2082,2082,false,SIN,Asia Pacific,Singapore,25,12.25
-8.219.236.8,8443,8443,true,SIN,Asia Pacific,Singapore,98,12.25
-47.236.180.51,2052,2052,false,SIN,Asia Pacific,Singapore,45,12.24
-8.219.209.14,2086,2086,false,SIN,Asia Pacific,Singapore,23,12.24
-8.219.185.191,2096,2096,true,SIN,Asia Pacific,Singapore,48,12.24
-47.236.145.85,2095,2095,false,SIN,Asia Pacific,Singapore,17,12.24
-47.236.150.109,2083,2083,true,SIN,Asia Pacific,Singapore,71,12.24
-8.219.92.89,8443,8443,true,SIN,Asia Pacific,Singapore,87,12.24
-47.74.13.66,2053,2053,true,NRT,Asia Pacific,Tokyo,95,12.23
-8.219.193.22,2087,2087,true,SIN,Asia Pacific,Singapore,115,12.23
-8.218.18.132,2052,2052,false,HKG,Asia Pacific,Hong Kong,48,12.23
-47.236.103.153,2096,2096,true,SIN,Asia Pacific,Singapore,155,12.22
-8.219.178.9,80,80,false,SIN,Asia Pacific,Singapore,16,12.22
-8.219.87.34,8880,8880,false,SIN,Asia Pacific,Singapore,18,12.22
-
-8.219.56.205,2087,2087,true,SIN,Asia Pacific,Singapore,77,12.11
-8.219.178.101,8443,8443,true,SIN,Asia Pacific,Singapore,103,12.11
-8.219.247.203,2086,2086,false,SIN,Asia Pacific,Singapore,23,12.11
-8.219.99.169,2087,2087,true,SIN,Asia Pacific,Singapore,117,12.11
-8.219.84.214,443,443,true,SIN,Asia Pacific,Singapore,91,12.11
-8.219.161.129,2082,2082,false,SIN,Asia Pacific,Singapore,11,12.11
-8.219.210.226,2082,2082,false,SIN,Asia Pacific,Singapore,19,12.11
-8.219.111.175,2082,2082,false,SIN,Asia Pacific,Singapore,18,12.11
-8.219.170.223,2053,2053,true,SIN,Asia Pacific,Singapore,198,12.11
-47.236.145.180,2095,2095,false,SIN,Asia Pacific,Singapore,30,12.11
-47.245.87.167,80,80,false,SIN,Asia Pacific,Singapore,4,12.11
-47.74.20.143,2082,2082,false,NRT,Asia Pacific,Tokyo,78,12.11
-47.236.172.71,2095,2095,false,SIN,Asia Pacific,Singapore,14,12.10
-8.209.248.161,8080,8080,false,NRT,Asia Pacific,Tokyo,77,12.10
-8.209.243.137,2053,2053,true,NRT,Asia Pacific,Tokyo,97,12.10
-47.236.176.144,2083,2083,true,SIN,Asia Pacific,Singapore,74,12.10
-47.74.14.85,2083,2083,true,NRT,Asia Pacific,Tokyo,297,12.10
-47.74.43.95,2053,2053,true,NRT,Asia Pacific,Tokyo,111,12.10
-47.74.36.154,2083,2083,true,NRT,Asia Pacific,Tokyo,85,12.09
-47.236.21.51,2087,2087,true,SIN,Asia Pacific,Singapore,72,12.09
-8.219.61.52,2053,2053,true,SIN,Asia Pacific,Singapore,181,12.09
-8.219.210.64,2052,2052,false,SIN,Asia Pacific,Singapore,12,12.09
-47.245.15.39,8443,8443,true,NRT,Asia Pacific,Tokyo,88,12.09
-8.219.249.148,2087,2087,true,SIN,Asia Pacific,Singapore,83,12.09
-8.219.97.179,8080,8080,false,SIN,Asia Pacific,Singapore,5,12.08
-8.219.4.122,443,443,true,HKG,Asia Pacific,Hong Kong,77,12.08
-47.74.43.95,2095,2095,false,NRT,Asia Pacific,Tokyo,74,12.08
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+129.154.212.181,44699,true,NRT,Asia Pacific,Tokyo,86 ms,24787 kB/s
+193.122.122.16,40377,true,NRT,Asia Pacific,Tokyo,76 ms,24569 kB/s
+118.163.128.81,17333,true,KHH,Asia Pacific,Kaohsiung City,88 ms,22027 kB/s
+18.183.137.85,2083,true,NRT,Asia Pacific,Tokyo,77 ms,21936 kB/s
+47.243.203.119,2053,true,HKG,Asia Pacific,Hong Kong,66 ms,18902 kB/s
+45.66.129.147,28388,true,NRT,Asia Pacific,Tokyo,83 ms,14394 kB/s
+35.201.203.106,443,true,TPE,Asia Pacific,Taipei,83 ms,13025 kB/s
+204.93.210.127,8443,true,SJC,North America,San Jose,177 ms,13002 kB/s
+217.163.76.89,2053,true,SJC,North America,San Jose,179 ms,12531 kB/s
+20.6.32.20,4431,true,SIN,Asia Pacific,Singapore,103 ms,10433 kB/s
+47.128.164.52,9999,true,SIN,Asia Pacific,Singapore,111 ms,10083 kB/s
+47.236.114.167,2096,true,SIN,Asia Pacific,Singapore,220 ms,9287 kB/s
+8.222.215.228,2096,true,SIN,Asia Pacific,Singapore,223 ms,9285 kB/s
+47.236.65.177,2087,true,SIN,Asia Pacific,Singapore,226 ms,9257 kB/s
+23.227.60.223,443,true,SJC,North America,San Jose,181 ms,9132 kB/s
+8.222.160.61,2087,true,SIN,Asia Pacific,Singapore,213 ms,9096 kB/s
+47.236.123.133,2096,true,SIN,Asia Pacific,Singapore,216 ms,9073 kB/s
+8.222.211.124,2096,true,SIN,Asia Pacific,Singapore,225 ms,9005 kB/s
+27.50.48.108,443,true,SJC,North America,San Jose,176 ms,9003 kB/s
+47.236.104.98,2053,true,SIN,Asia Pacific,Singapore,227 ms,8939 kB/s
+47.236.144.208,2087,true,SIN,Asia Pacific,Singapore,237 ms,8927 kB/s
+217.163.76.107,2053,true,SJC,North America,San Jose,173 ms,8926 kB/s
+47.236.79.77,2083,true,SIN,Asia Pacific,Singapore,236 ms,8920 kB/s
+8.222.155.242,2053,true,SIN,Asia Pacific,Singapore,242 ms,8914 kB/s
+8.222.187.107,2087,true,SIN,Asia Pacific,Singapore,219 ms,8901 kB/s
+8.222.134.170,2053,true,SIN,Asia Pacific,Singapore,228 ms,8863 kB/s
+47.236.65.177,2096,true,SIN,Asia Pacific,Singapore,240 ms,8848 kB/s
+47.236.7.206,2087,true,SIN,Asia Pacific,Singapore,244 ms,8821 kB/s
+47.236.10.100,2053,true,SIN,Asia Pacific,Singapore,212 ms,8797 kB/s
+47.236.83.239,2096,true,SIN,Asia Pacific,Singapore,234 ms,8796 kB/s
+8.222.145.164,2083,true,SIN,Asia Pacific,Singapore,241 ms,8746 kB/s
+47.236.87.246,2083,true,SIN,Asia Pacific,Singapore,217 ms,8722 kB/s
+8.222.150.197,2053,true,SIN,Asia Pacific,Singapore,220 ms,8704 kB/s
+8.222.211.124,2087,true,SIN,Asia Pacific,Singapore,239 ms,8702 kB/s
+8.222.182.10,2096,true,SIN,Asia Pacific,Singapore,230 ms,8694 kB/s
+8.222.160.61,2096,true,SIN,Asia Pacific,Singapore,225 ms,8649 kB/s
+47.236.148.174,2083,true,SIN,Asia Pacific,Singapore,222 ms,8624 kB/s
+8.222.168.24,2083,true,SIN,Asia Pacific,Singapore,211 ms,8481 kB/s
+8.222.238.141,2053,true,SIN,Asia Pacific,Singapore,238 ms,8473 kB/s
+47.236.103.153,2053,true,SIN,Asia Pacific,Singapore,233 ms,8450 kB/s
+8.222.227.191,2083,true,SIN,Asia Pacific,Singapore,223 ms,8386 kB/s
+47.236.161.155,2053,true,SIN,Asia Pacific,Singapore,223 ms,8367 kB/s
+8.222.168.24,2087,true,SIN,Asia Pacific,Singapore,222 ms,8366 kB/s
+47.236.83.239,2083,true,SIN,Asia Pacific,Singapore,231 ms,8286 kB/s
+8.222.150.197,2096,true,SIN,Asia Pacific,Singapore,228 ms,8272 kB/s
+47.236.7.13,2087,true,SIN,Asia Pacific,Singapore,247 ms,8252 kB/s
+8.222.227.191,2096,true,SIN,Asia Pacific,Singapore,220 ms,8240 kB/s
+175.125.207.253,33060,true,ICN,Asia Pacific,Seoul,74 ms,8166 kB/s
+154.197.121.253,443,true,SJC,North America,San Jose,187 ms,8069 kB/s
+8.222.224.162,2087,true,SIN,Asia Pacific,Singapore,248 ms,8061 kB/s
+8.222.150.197,2083,true,SIN,Asia Pacific,Singapore,225 ms,8010 kB/s
+8.222.129.245,2083,true,SIN,Asia Pacific,Singapore,243 ms,7919 kB/s
+8.222.215.228,2083,true,SIN,Asia Pacific,Singapore,223 ms,7883 kB/s
+8.222.182.10,2083,true,SIN,Asia Pacific,Singapore,235 ms,7861 kB/s
+8.222.229.22,2087,true,SIN,Asia Pacific,Singapore,226 ms,7841 kB/s
+154.197.121.99,8443,true,SJC,North America,San Jose,176 ms,7788 kB/s
+47.236.15.73,2083,true,SIN,Asia Pacific,Singapore,243 ms,7759 kB/s
+8.222.137.166,2083,true,SIN,Asia Pacific,Singapore,220 ms,7738 kB/s
+8.222.154.50,2053,true,SIN,Asia Pacific,Singapore,229 ms,7663 kB/s
+8.222.248.188,2096,true,SIN,Asia Pacific,Singapore,224 ms,7660 kB/s
+8.222.137.178,2083,true,SIN,Asia Pacific,Singapore,223 ms,7517 kB/s
+154.17.2.191,14604,true,LAX,North America,Los Angeles,176 ms,7468 kB/s
+154.197.121.13,8443,true,SJC,North America,San Jose,178 ms,7264 kB/s
+124.111.188.119,19091,true,NRT,Asia Pacific,Tokyo,122 ms,7243 kB/s
+188.42.145.66,2083,true,SJC,North America,San Jose,188 ms,7192 kB/s
+8.222.130.137,2083,true,SIN,Asia Pacific,Singapore,218 ms,7159 kB/s
+219.240.54.189,10434,true,ICN,Asia Pacific,Seoul,71 ms,7124 kB/s
+185.146.173.12,443,true,SJC,North America,San Jose,172 ms,7124 kB/s
+8.222.145.110,2053,true,SIN,Asia Pacific,Singapore,215 ms,7104 kB/s
+8.222.224.162,2096,true,SIN,Asia Pacific,Singapore,224 ms,7067 kB/s
+168.100.6.132,2087,true,SJC,North America,San Jose,177 ms,6757 kB/s
+218.54.200.63,30048,true,ICN,Asia Pacific,Seoul,83 ms,6691 kB/s
+154.197.121.127,443,true,SJC,North America,San Jose,178 ms,6610 kB/s
+202.81.231.30,55576,true,HKG,Asia Pacific,Hong Kong,87 ms,6604 kB/s
+154.197.121.248,8443,true,SJC,North America,San Jose,173 ms,6417 kB/s
+154.197.121.254,8443,true,SJC,North America,San Jose,177 ms,6411 kB/s
+110.13.212.97,20880,true,ICN,Asia Pacific,Seoul,86 ms,6396 kB/s
+217.163.76.88,443,true,SJC,North America,San Jose,178 ms,6300 kB/s
+217.163.76.59,443,true,SJC,North America,San Jose,170 ms,6266 kB/s
+88.216.66.74,2053,true,SJC,North America,San Jose,166 ms,6039 kB/s
+217.163.76.75,443,true,SJC,North America,San Jose,181 ms,5961 kB/s
+91.195.110.131,2083,true,SJC,North America,San Jose,173 ms,5952 kB/s
+58.238.88.129,10106,true,ICN,Asia Pacific,Seoul,86 ms,5786 kB/s
+77.74.228.97,2087,true,SJC,North America,San Jose,176 ms,5657 kB/s
+93.113.175.66,2083,true,SJC,North America,San Jose,179 ms,5593 kB/s
+218.54.154.5,11423,true,KIX,Asia Pacific,Osaka,119 ms,5401 kB/s
+211.44.160.106,10096,true,ICN,Asia Pacific,Seoul,109 ms,5371 kB/s
+20.254.95.107,2096,true,LHR,Europe,London,277 ms,5183 kB/s
+8.222.153.11,2083,true,NRT,Asia Pacific,Tokyo,298 ms,5106 kB/s
+175.121.23.104,38422,true,KIX,Asia Pacific,Osaka,109 ms,4934 kB/s
+14.54.63.38,50030,true,ICN,Asia Pacific,Seoul,77 ms,3972 kB/s
+1.233.201.159,12513,true,KIX,Asia Pacific,Osaka,113 ms,3923 kB/s
+58.238.88.129,38507,true,KIX,Asia Pacific,Osaka,121 ms,3046 kB/s
+159.65.165.75,8443,true,EWR,North America,Newark,236 ms,3021 kB/s
+43.159.35.190,49142,true,SIN,Asia Pacific,Singapore,88 ms,3018 kB/s
+180.70.218.108,10411,true,ICN,Asia Pacific,Seoul,100 ms,2933 kB/s
+178.128.225.209,2053,true,YYZ,North America,Toronto,252 ms,2625 kB/s
+45.58.37.185,2053,true,YYZ,North America,Toronto,244 ms,2493 kB/s
+35.240.184.147,8092,true,SIN,Asia Pacific,Singapore,103 ms,2471 kB/s
+193.203.203.102,8443,true,YYZ,North America,Toronto,256 ms,2401 kB/s
+8.222.136.196,2087,true,SIN,Asia Pacific,Singapore,232 ms,1929 kB/s
+51.77.105.212,2053,true,LHR,Europe,London,252 ms,1921 kB/s
+222.233.248.165,38344,true,KIX,Asia Pacific,Osaka,116 ms,1814 kB/s
+203.57.51.179,8443,true,SYD,Oceania,Sydney,341 ms,1464 kB/s
+38.180.128.251,2053,true,SYD,Oceania,Sydney,315 ms,1286 kB/s
+103.137.63.37,46832,true,HKG,Asia Pacific,Hong Kong,104 ms,1285 kB/s
+159.89.112.72,8443,true,YYZ,North America,Toronto,253 ms,1082 kB/s
+27.50.48.250,2096,true,SJC,North America,San Jose,184 ms,733 kB/s
+47.241.209.61,443,true,SIN,Asia Pacific,Singapore,89 ms,620 kB/s
+170.64.161.80,8443,true,SYD,Oceania,Sydney,328 ms,435 kB/s
+198.244.134.206,2053,true,LHR,Europe,London,247 ms,418 kB/s
+170.64.228.44,8443,true,SYD,Oceania,Sydney,352 ms,246 kB/s
+124.50.116.202,36831,true,NRT,Asia Pacific,Tokyo,128 ms,215 kB/s
+211.75.74.232,4443,true,KIX,Asia Pacific,Osaka,91 ms,179 kB/s
+20.167.48.9,8443,true,SYD,Oceania,Sydney,189 ms,170 kB/s
+51.77.105.212,8443,true,LHR,Europe,London,252 ms,153 kB/s
+5.188.181.229,2053,true,MAD,Europe,Madrid,276 ms,105 kB/s
+211.246.192.9,10051,true,ICN,Asia Pacific,Seoul,138 ms,92 kB/s
+43.154.196.20,65432,true,HKG,Asia Pacific,Hong Kong,76 ms,80 kB/s
+38.180.33.187,34237,true,MAD,Europe,Madrid,266 ms,80 kB/s
+45.86.229.176,8443,true,MAD,Europe,Madrid,286 ms,60 kB/s
+51.195.169.98,2053,true,LHR,Europe,London,259 ms,16 kB/s
+158.179.188.7,2096,true,NRT,Asia Pacific,Tokyo,120 ms,0 kB/s
+132.145.83.155,33799,true,ICN,Asia Pacific,Seoul,74 ms,0 kB/s
